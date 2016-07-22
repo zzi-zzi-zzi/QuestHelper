@@ -13,8 +13,8 @@ Sensei/
 ├── Plugins/
 │   ├── QuestHelper/
 │	    ├── QuestHelper.cs
-│		  ├── README.md
-│		  ├── ... ETC
+│     ├── README.md
+│	    ├── ... ETC
 │
 ├── Sensei.exe
 ├── ... ETC
