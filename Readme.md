@@ -1,18 +1,18 @@
-#Quest Helper
+#Quest Hub
 
 Beta Version!
 
 ## Instillation Instructions (Release)
 
-(Download the latest version from this page)[https://github.com/zzi-zzi-zzi/QuestHelper/releases] Extract the Zip into your Plugins folder.
+(Download the latest version from this page)[https://github.com/zzi-zzi-zzi/QuestHub/releases] Extract the Zip into your Plugins folder.
 
 It should look like:
 ```
 Sensei/
 ├── Routines/
 ├── Plugins/
-│   ├── QuestHelper/
-│	    ├── QuestHelper.cs
+│   ├── QuestHub/
+│	    ├── QuestHub.cs
 │     ├── README.md
 │	    ├── ... ETC
 │
